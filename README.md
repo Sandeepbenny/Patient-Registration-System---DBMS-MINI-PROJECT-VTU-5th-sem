@@ -5,4 +5,4 @@
 <br>This is a Patient Registration System which is available in all the hospitals. This can be modified to any of the exisiting systems and is very helpful in digital accumatization rather than the chronological paper registration method which is a untidy task. Hopefully this helps you &lt;3 </br>
 <footer>
 <h1> CREDITS:</h1>
-
+<br>Sandeep Benny </br>
