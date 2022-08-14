@@ -1,4 +1,4 @@
-# Patient-Registration-System---DBMS-MINI-PROJECT-VTU-5th-sem
+# DBMS-MINI-PROJECT-VTU-5th-sem
 <h1>Patient Registration System</h1> 
 <br>This is a project done in 5th sem (VTU) on Data base management system laboatory .</br> 
 <p><br>This project includes the report and all the neccessary documents .</br>
